@@ -3,9 +3,9 @@
 CNN-based binary classifier to distinguish **real vs. deepfake** facial images using a labeled Kaggle dataset.
 
 ## Highlights
-- 🧠 Convolutional Neural Network (CNN) with transfer-friendly training loop
-- 🧹 Clean pipeline: preprocessing → train → evaluate → visualize
-- 📊 Test accuracy: **~88%**; precision/recall/F1 **> 0.85** 
+- Convolutional Neural Network (CNN) with transfer-friendly training loop
+- Clean pipeline: preprocessing → train → evaluate → visualize
+- Test accuracy: **~88%**; precision/recall/F1 **> 0.85** 
 
 ## Running the Script
 - Open deepfake_detector.ipynb in Colab.
